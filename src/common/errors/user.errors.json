@@ -1,0 +1,242 @@
+{
+    "1000": {
+        "msg": {
+            "EN": "Please enter email address."
+        }
+    },
+    "1001": {
+        "msg": {
+            "EN": "Please enter password."
+        }
+    },
+    "1002": {
+        "msg": {
+            "EN": "Admin Id is required."
+        }
+    },
+    "1003": {
+        "msg": {
+            "EN": "Valid Admin Id is required."
+        }
+    },
+    "1004": {
+        "msg": {
+            "EN": "Password is required."
+        }
+    },
+    "1005": {
+        "msg": {
+            "EN": "Admin account doesn't exist."
+        }
+    },
+    "1006": {
+        "msg": {
+            "EN": "Error occurred while updating password."
+        }
+    },
+    "1007": {
+        "msg": {
+            "EN": "Error occurred while updating profile."
+        }
+    },
+    "1008": {
+        "msg": {
+            "EN": "Email is required."
+
+        }
+    },
+    "1009": {
+        "msg": {
+            "EN": "First name is required."
+
+        }
+    },
+    "1010": {
+        "msg": {
+            "EN": "Last name is required."
+
+        }
+    },
+    "1011": {
+        "msg": {
+            "EN": "Profile ImageUrl is required."
+
+        }
+    },
+    "1012": {
+        "msg": {
+            "EN": "Country Code is required."
+
+        }
+    },
+    "1013": {
+        "msg": {
+            "EN": "Phone Number is required."
+
+        }
+    },
+    "1014": {
+        "msg": {
+            "EN": "Password is required."
+
+        }
+    },
+    "1015": {
+        "msg": {
+            "EN": "Dashboard permission is required."
+
+        }
+    },
+    "1016": {
+        "msg": {
+            "EN": "Map permission is required."
+
+        }
+    },
+    "1017": {
+        "msg": {
+            "EN": "Companies permission is required."
+
+        }
+    },
+    "1018": {
+        "msg": {
+            "EN": "Driver permission is required."
+
+        }
+    },
+    "1019": {
+        "msg": {
+            "EN": "Users permission is required."
+
+        }
+    },
+    "1020": {
+        "msg": {
+            "EN": "Jobs permission is required."
+
+        }
+    },
+    "1021": {
+        "msg": {
+            "EN": "PromoCodes permission is required."
+
+        }
+    },
+    "1022": {
+        "msg": {
+            "EN": "Promotions permission is required."
+
+        }
+    },
+    "1023": {
+        "msg": {
+            "EN": "Configurations permission is required."
+
+        }
+    },
+    "1024": {
+        "msg": {
+            "EN": "Roles And Security permission is required."
+
+        }
+    },
+    "1025": {
+        "msg": {
+            "EN": "Banks permission is required."
+
+        }
+    },
+    "1026": {
+        "msg": {
+            "EN": "Payouts permission is required."
+
+        }
+    },
+    "1027": {
+        "msg": {
+            "EN": "Notifications permission is required."
+
+        }
+    },
+    "1028": {
+        "msg": {
+            "EN": "Sub admin id is required."
+        }
+    },
+    "1029": {
+        "msg": {
+            "EN": "Valid sub admin Id  is required."
+        }
+    },
+    "1030": {
+        "msg": {
+            "EN": "Error occurred while getting sub admin detail."
+        }
+    },
+    "1031": {
+        "msg": {
+            "EN": "Sub admin account does't exist."
+        }
+    },
+    "1032": {
+        "msg": {
+            "EN": "Error occurred while updating sub admin."
+        }
+    },
+    "1033": {
+        "msg": {
+            "EN": "Error occurred while creating sub admin."
+        }
+    },
+    "1034": {
+        "msg": {
+            "EN": "Valid Status is requierd."
+        }
+    },
+    "1035": {
+        "msg": {
+            "EN": "Error occurred while validating email."
+        }
+    },
+    "1036": {
+        "msg": {
+            "EN": "Error occurred while geting admin listing."
+        }
+    },
+    "1037": {
+        "msg": {
+            "EN": "Error occurred while creating new class."
+        }
+    },
+    "1038": {
+        "msg": {
+            "EN": "Error occurred while creating new subject."
+        }
+    },
+    "1039": {
+        "msg": {
+            "EN": "Error occurred while assigning teacher to subject."
+        }
+    },
+    "1040": {
+        "msg": {
+            "EN": "Error occurred while assigning student to subject."
+        }
+    },
+    "1041": {
+        "msg": {
+            "EN": "Error occurred while assigning subject to class."
+        }
+    },
+    "2512":{
+        "msg":{
+            "EN" : "Email is already Exists."
+        }
+    },
+    "2513":{
+        "msg":{
+            "EN" : "Reg No is already Exists."
+        }
+    }
+}
